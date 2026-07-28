@@ -1,0 +1,31 @@
+Código do Centro de Custo,Nome do Centro de Custo,Departamento,Gestor Responsável,Unidade,Cidade,Estado,Tipo de Centro,Status,Data de Criação,Observações
+1001,Gestão de Pessoas & Cultura,Recursos Humanos,Patricia Mendes,Matriz São Paulo,São Paulo,SP,Administrativo,Ativo,2016-03-15,Centro destinado às despesas administrativas de RH.
+1002,Atração & Seleção de Talentos,Recursos Humanos,Amanda Ribeiro,Matriz São Paulo,São Paulo,SP,Suporte,Ativo,2017-01-10,Responsável pelos processos seletivos e recrutamento.
+1003,Controladoria & Contabilidade,Financeiro,Fernando Rocha,Matriz São Paulo,São Paulo,SP,Administrativo,Ativo,2016-03-15,Destinado às despesas da controladoria e auditoria.
+1004,Tesouraria & Planejamento Financeiro,Financeiro,Thiago Oliveira,Matriz São Paulo,São Paulo,SP,Administrativo,Ativo,2016-08-01,"Gestão de contas a pagar, receber e fluxo de caixa."
+1005,Servidores & Cloud Computing,Infraestrutura,Beatriz Lima,Matriz São Paulo,São Paulo,SP,Suporte,Ativo,2016-04-20,Utilizado para despesas de infraestrutura e nuvem.
+1006,Suporte Técnico & Helpdesk,Tecnologia da Informação,Mariana Costa,Filial Rio de Janeiro,Rio de Janeiro,RJ,Suporte,Ativo,2018-05-12,Atendimento interno e manutenção de equipamentos.
+1007,Desenvolvimento Frontend & Mobile,Desenvolvimento de Software,Gabriela Dias,Matriz São Paulo,São Paulo,SP,Projeto,Ativo,2017-09-15,Projetos de desenvolvimento de plataformas cliente.
+1008,Desenvolvimento Backend & APIs,Desenvolvimento de Software,Lucas Fernandes,Matriz São Paulo,São Paulo,SP,Projeto,Ativo,2017-09-15,"Sistemas centrais, microsserviços e integração."
+1009,Segurança & Proteção de Dados,Segurança da Informação,Rodrigo Nogueira,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2019-02-01,"Certificações, licenças de segurança e auditorias SOC."
+1010,Vendas Corporativas B2B,Comercial,Roberto Alves,Matriz São Paulo,São Paulo,SP,Comercial,Ativo,2016-03-15,Exclusivo para despesas comerciais e comissões.
+1011,Novos Negócios & Expansão Regional,Comercial,Felipe Santos,Filial Belo Horizonte,Belo Horizonte,MG,Comercial,Ativo,2019-07-11,Despesas com prospeção comercial na região SE/MG.
+1012,Vendas Estaduais - Sul,Comercial,Carlos Eduardo Silva,Filial Curitiba,Curitiba,PR,Comercial,Ativo,2020-03-10,Operação comercial e atendimento da região Sul.
+1013,Marketing Digital & Performance,Marketing,Fernanda Lima,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2017-11-01,"Campanhas publicitárias, eventos e aquisição."
+1014,Comunicação Interna & Endomarketing,Comunicação Interna,Vanessa Souza,Matriz São Paulo,São Paulo,SP,Administrativo,Ativo,2018-01-15,Ações de engajamento interno e eventos institucionais.
+1015,Compliance & Governança Corporativa,Compliance,Gustavo Carvalho,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2018-06-20,"Gestão de riscos, políticas e conformidade normativa."
+1016,Jurídico & Gestão de Contratos,Jurídico,Marcelo Souza,Matriz São Paulo,São Paulo,SP,Administrativo,Ativo,2016-05-10,"Despesas com contencioso, atos societários e pareceres."
+1017,Atendimento & Suporte ao Cliente,Atendimento ao Cliente,Juliana Martins,Filial Recife,Recife,PE,Operacional,Ativo,2019-09-01,Centro vinculado ao atendimento ao cliente e pós-venda.
+1018,Suporte Premium VIP,Atendimento ao Cliente,Pedro Henrique,Matriz São Paulo,São Paulo,SP,Operacional,Ativo,2021-02-15,Atendimento de contas estratégicas enterprise.
+1019,Operações & Logística Corporativa,Operações,Ricardo Torres,Matriz São Paulo,São Paulo,SP,Operacional,Ativo,2016-04-01,"Instalações, manutenção predial e insumos gerais."
+1020,Logística & Serviços de Campo,Operações,Helena Castro,Filial Rio de Janeiro,Rio de Janeiro,RJ,Operacional,Ativo,2018-08-20,Deslocamento e serviços operacionais de campo.
+1021,Diretoria Executiva & Conselho,Diretoria Executiva,Renata Silveira,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2016-03-15,Despesas estratégicas e representação executiva.
+1022,Gestão de Produtos & Roadmap,Produto,Camila Rocha,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2019-01-10,"Pesquisa de mercado, UX e definição de novos produtos."
+1023,Projetos de Inovação & AI Labs,Produto,Rafael Almeida,Matriz São Paulo,São Paulo,SP,Projeto,Ativo,2022-04-01,Utilizado em projetos internos de inovação e IA.
+1024,Treinamento & Desenvolvimento (T&D),Recursos Humanos,Patricia Mendes,Matriz São Paulo,São Paulo,SP,Suporte,Ativo,2018-03-01,"Capacitação técnica, cursos e certificações de time."
+1025,Infraestrutura Legada de Telefonia,Infraestrutura,Beatriz Lima,Filial Rio de Janeiro,Rio de Janeiro,RJ,Suporte,Inativo,2016-06-01,Centro inativo referente ao sistema telefônico antigo.
+1026,Filial Antiga Porto Alegre,Comercial,Roberto Alves,Filial Curitiba,Curitiba,PR,Comercial,Inativo,2017-05-15,Centro inativo referente ao antigo escritório regional.
+1027,Sistemas Internos de RH (Legado),Tecnologia da Informação,Mariana Costa,Matriz São Paulo,São Paulo,SP,Suporte,Inativo,2016-09-10,Projeto encerrado para migração de software.
+1028,Eventos Presenciais e Feiras 2020,Marketing,Fernanda Lima,Matriz São Paulo,São Paulo,SP,Projeto,Inativo,2020-01-15,Centro de custo temporário encerrado.
+1029,Expansão Nordeste (Projetos),Comercial,Felipe Santos,Filial Recife,Recife,PE,Comercial,Ativo,2021-08-10,Responsável pelos projetos estratégicos do Nordeste.
+1030,Aceleração de Startups Interna,Diretoria Executiva,Renata Silveira,Matriz São Paulo,São Paulo,SP,Estratégico,Ativo,2023-01-20,Projetos estratégicos de venture corporativo.

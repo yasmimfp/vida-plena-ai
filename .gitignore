@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Arquivos de log
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
